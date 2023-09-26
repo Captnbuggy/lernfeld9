@@ -8,5 +8,3 @@ Sie verfügen über die Kompetenz, Netzwerke und Dienste zu planen, zu konfiguri
 
 ✔ 	Es gibt ein vorgegebenes Grundszenario, welches alle umsetzen sollen. Darüber hinaus gibt es Erweiterungen, die eine Vertiefung in verschiedenen Bereichen ermöglicht.
 
-  	✔ 	In Erweiterung A liegt der Schwerpunkt auf der Erweiterung des Netzes durch die Implementierung von OSPFv3, DHCPv6 sowie ACLs.
-  	✔ 	In Erweiterung B geht es darum, die Möglichkeiten im Bereich Sofware-defined Networking (SDN) zu erkunden.
